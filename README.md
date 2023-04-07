@@ -7,7 +7,7 @@
       ********************
 
 
-this is the problem description of a program that's been decribed (wrongly with errors) in the 2nd chapter of some fucking edition
+this is the problem description of a program that's been decribed ( in the 2nd chapter of some freaking edition
 
 
 Now the below is the properly descirbed pattern that needs to be programmed and provided a solution in the book. The pattern is 
