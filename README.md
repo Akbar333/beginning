@@ -21,6 +21,6 @@ Now the below is the properly descirbed pattern that needs to be programmed and 
 
 the solution to the later one is given in the book 
 
-here I've given a solution (which I think is right, that's why got the courage to upload it onto github) to the earlier pattern. 
+here I've given a solution :) to the earlier pattern. 
 
 correction feedback for the program is greeted graciously!
